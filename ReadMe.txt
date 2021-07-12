@@ -10,3 +10,6 @@ Creating Develop branch.
 
 [Ken]
 Creating Release branch.
+
+[Ken]
+Tagging this version as 1.0.0.
