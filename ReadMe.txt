@@ -4,3 +4,6 @@ This message has been written upon repository creation.
 
 [Ken]
 Creating Feature branch.
+
+[Kars]
+Creating Develop branch.
