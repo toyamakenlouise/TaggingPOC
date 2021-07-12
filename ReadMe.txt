@@ -7,3 +7,6 @@ Creating Feature branch.
 
 [Kars]
 Creating Develop branch.
+
+[Ken]
+Creating Release branch.
