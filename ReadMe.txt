@@ -13,3 +13,6 @@ Creating Release branch.
 
 [Ken]
 Tagging this version as 1.0.0.
+
+[Kars]
+Tagging the version as feature-1.1.0.
