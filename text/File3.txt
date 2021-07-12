@@ -1,0 +1,81 @@
+KLT-172	E019 - System should erase personal information from voice recordings when required. (Eg: Credit Card Payments over the phone)
+KLT-170	C015 - System should be able to automatically play a message when Agent not logged in, or pass it to another queue.
+KLT-171	C016 - System should integrate ith SAP CRM for Voice Mail orders and email orders.
+KLT-163	D015 - System should have the capability to create and play Call Whispers
+KLT-169	C015 - System should have the ability to setup and change Public Holiday messages
+KLT-168	D017 - System should provide priority based queuing for states based on cutoff (Eg: 10AM country and 12PM for Metro)
+KLT-167	M027 - Voice of Customer - Qualtrics Integration - The voice recordings from AC and screen recordings from NICE/new 3rd party tool should integrate with Voice Foundry for transcription
+KLT-166	D017 - Priority between Emails and Calls to be determined by rules (eg: if the email is for a Postcode where the cutoff is approaching, priority to be given to email, instead of Call)
+KLT-165	B014 - System should cater for connections to be established through Citrix and AWS for offsite or work from home situations
+KLT-164	D016 - System should be capable of accepting carrier diversity
+KLT-162	D014 - System should be capable of configuring Speed dials to other departments
+KLT-161	D013 - Public Holidays should be made available in the system for Call Centre and Credit Teams
+KLT-160	A019 - Implement MFA (multi-factor authentication) for Admins who manage Emergency queue notifications or shut down, from Allowed mobile devices.
+KLT-111	M011 - Existing Walk-Me Integration with SAP CRM should continue to work
+KLT-110	M009 - Amazon Connect should integrate wit NICE/3rd party for screen recording
+KLT-109	M008 - SAP C4C (ISM process to be confirmed)
+KLT-108	M005 - The Call data from Amazon Connect should flow to Datawarehouse and Power BI
+KLT-107	M003 - Amazon Connect should be integrated with Verint WFM
+KLT-106	M002 - Existing Integrations from SAP CRM should work with Amazon Connect
+KLT-86	H009 - The system should enable the ability to examine and interpret text.
+KLT-85	H001 - The system must support voice channel (Inbound and Outbound call).
+KLT-84	G021 - The system must schedule and forecast for all channels including voice , email and fax (which generates email)
+KLT-83	G020 - The system must be able to perform Quality Management checks against a set of criteria for voice and non-voice. There should be no timeout restrictions when reviewing and listening to calls
+KLT-82	G019 - The system must enable call recording for remote working
+KLT-81	G018 - The system must support USB headsets, agent handsets or both. Preference for Teams compatible headsets
+KLT-80	G009 - Access to audio recordings must be in near real time. Please state typical times for recording to be available post call.
+KLT-79	G008 - The system must record 100% of calls - Inbound and Outbound interactions (voice, digital with voice and digital only channels) for all agents.
+KLT-78	G006 - The system must allow all calls to be accessed by Team leads remotely, in both AU and NZ
+KLT-77	G005 - They system must be able to record calls automatically as well as control the recording start/stop/pause/resume.
+KLT-76	F003 - The system should be able to complete predictive analytics to identify contact intent and route customers appropriately
+KLT-74	F001 - Speech analytics must be able to distinguish between Agent and Customer
+KLT-73	E018 - System must use other data sources to proactively flag potential cause of change in Contact Centre performance i.e. service level when compared to prior period i.e cycling YAGO KSP phasing, campains, stock/system issues. See E003
+KLT-72	E017 - Reporting must be configurable
+KLT-71	E016 - The system must present and compare actual performance against performance targets. These would include but not limited to GOS, AHT, Wait Time, etc.
+KLT-70	E014 - Store and retain, amongst other things, files, interactions, voice recording, logs relating to a Subscribers’ engagement for a minimum of X years;
+KLT-69	E013 - Archive data stored must be accessible by any authorised user
+KLT-68	E012 - Archive data storage for a minimum of 365 days
+KLT-67	E010 - Voice data to be stored for 365 days
+KLT-66	E009 - The system must have the capacity to support;
+KLT-65	E008 - The system should have the capabilities to support multi-tenant structure, multi-site, mulit-channel
+KLT-64	E006 - Dashboards must display contact centre's KPIs. Managers, supervisors and agents must be able to interact with reports, drilling down from summary to detail data according to their security settings.
+KLT-63	E003 - It must provide access to a wealth of additional information that can be used for long term planning and forecasting (patterns, trends, …).
+KLT-62	E002 - The system must provide the ability to access/export historical raw data for use in a range of Business Intelligence tools - all data from the previous day must be exportable by tenant at the lowest level of granularity.
+KLT-61	E001 - The system must enable real-time analysis and reporting of agent performance, contact centre operations, customer contacts and interactions. Generally used for short-term or intra-day management decision.
+KLT-60	D010 - System must redirect to next agent on no answer and have RONA reporting available
+KLT-59	D009 - The omni-channel orchestration should be responsible for queuing and routing customer contact across channels.
+KLT-58	D008 - The system should have advanced analytics integrated to understand customer call intent and route to agent best able to deal with that intent
+KLT-57	D007 - The system should have Rules Based extensions to your Development Interface that enable Lion to update IVR trees without modifying code or directly updating call flows through the IVR developer console.
+KLT-56	D006 - System must be able to assign different priority levels to different types of media in the queue
+KLT-55	D004 - System must be able to define service levels and change queueing based on performance, dynamically, using configurable rules
+KLT-54	D003 - System must support ability to route calls based on time of day / public holidays
+KLT-53	D002 - The system must support skill based routing based on skills attributed to agents
+KLT-52	D001 - The system must route calls based on queue types
+KLT-51	C013 - System must suport auto-answer
+KLT-50	C009 - System must be able to use prerecorded, recorded through platform, and text-to-speech for any or all menu prompts
+KLT-49	C008 - Lion must have the ability to create its own IVR scripts and modify existing scripts (including those built by the Amazon Connect).
+KLT-48	C006 - The system must offer callers the option to leave a voicemail for a call-back when the caller has been in queue for a configurable predefined period.
+KLT-47	C002 - System must have a region based call queue
+KLT-46	B012 - CTI screen pop must include call ID, Name, Premis and contact history
+KLT-45	B010 - System should have the ability to alert the supervisor to agents experiencing issues in real-time
+KLT-44	B009 - System must have abililty for supervisors to monitor agents and inbound call/contact volumes and the status of associated agents in real time.
+KLT-43	B005 - The desktop system must integrate into the CRM
+KLT-42	B004 - The system must supply real time data to Verint WFM providing a Real Time status of agents: (e.g. on a call, in after call work, email, chat, status, (meal, break), etc) – this data is for use in Real Time Adherence Module.
+KLT-41	B002 - system must support a single agent interface to handle all channels like- inbound voice, outbound voice, e-mail, chat etc
+KLT-40	B001 - The CTI screen pop must appear in every call
+KLT-39	A018 - Authorised users must be able to switch off voicemail and divert to other numbers in the queue
+KLT-38	A017 - System must support DDI and Agent calls on the same device
+KLT-36	A015 - System must have ability for aithorised users to change telephone numbers
+KLT-35	A014 - System must have the ability to port numbers across transitioning across existing Telephone Numbers (port number
+KLT-34	A013 - The system must log the timezone the Contact Centre is operating in. This will cover all states across AU and NZ
+KLT-33	A012 - The system must allow authorised users to deploy announcements quickly and easily at any time
+KLT-32	A011 - The system must allow authorised users to view audit logs
+KLT-31	A010 - The system must allow authorised users to download files in various formats i.e. xlsx, docx, csv
+KLT-30	A009 - The system must allow authorised users to upload data and define system behaviour i.e. blacklist etc.
+KLT-29	A008 - The system must allow authorised users to make changes to the call flows, menus, options etc.
+KLT-28	A007 - The system must allow authorised users to change, modify, turn on / off features
+KLT-27	A006 - The system must allow authorised users to monitor real time and manage service level
+KLT-26	A005 - The system must allow User to change Agent skill without logging out of system
+KLT-25	A004 - The system must allow Team Lead or Manager can log an agent out remotely
+KLT-24	A003 - The System must provide hierarchy -> Manager, team Lead, Agent etc.
+KLT-23	A001 - The system must have an audit Trail for any adjustments made for staff skillsets, reports executed, permission level adjustments. Audit report must include date, username, action taken   .

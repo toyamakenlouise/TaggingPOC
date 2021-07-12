@@ -1,0 +1,12 @@
+FCC-22	Historic Reporting
+FCC-21	Voicemail
+FCC-20	Admin Access
+FCC-19	Systems Integration
+FCC-18	Channels and Self-serve
+FCC-17	Workforce Optimisation
+FCC-16	Analytics
+FCC-15	Management and Reporting
+FCC-14	Call Routing
+FCC-13	Voice & IVR
+FCC-12	Agent Desktop
+FCC-11	Admin Features

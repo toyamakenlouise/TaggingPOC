@@ -1,0 +1,15 @@
+Release Tagging strategy planning (POC, DEV/SIT, UAT, PROD)	1
+Release Tagging strategy simulation/mock-up (POC)	2
+Consultation with M88 team, revisions	.5
+
+Release Tagging strategy simulation/mock-up (DEV/SIT)	1
+Consultation with M88 team, revisions	1
+Release Tagging strategy implementation (DEV/SIT)	1
+
+Release Tagging strategy simulation/mock-up (UAT)	1
+Consultation with M88 team, revisions	.5
+Release Tagging strategy implementation (UAT)	1
+
+Release Tagging strategy simulation/mock-up (PROD)	1
+Consultation with M88 team, revisions	.5
+Release Tagging strategy implementation (PROD)	1
